@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Dice Roll</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+<div class="dice1"></div>
+<div class="number1" >{{number1}}</div>
+
+<div class="dice2"></div>
+<div class="number2" >{{number2}}</div>
+
+<button ion-button class="btnRoll" (click)="roll()">Roll Dice</button>
+
+</ion-content>
