@@ -1,14 +1,1 @@
-DiceRoll/resources/*
-DiceRoll/hooks/*
 DiceRoll/node_modules/*
-DiceRoll/www/*
-DiceRoll/.editorconfig
-DiceRoll/config.xml
-DiceRoll/ionic.config.json
-DiceRoll/package.json
-DiceRoll/README.md
-DiceRoll/src/assets/icon/favicon.ico
-DiceRoll/src/manifest.json
-DiceRoll/src/service-worker.js
-DiceRoll/tsconfig.json
-DiceRoll/tslint.json
